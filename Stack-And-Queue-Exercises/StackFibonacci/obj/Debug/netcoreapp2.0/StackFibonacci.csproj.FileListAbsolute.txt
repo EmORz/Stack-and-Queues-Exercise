@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\StackFibonacci\bin\Debug\netcoreapp2.0\StackFibonacci.deps.json
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\StackFibonacci\bin\Debug\netcoreapp2.0\StackFibonacci.runtimeconfig.json
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\StackFibonacci\bin\Debug\netcoreapp2.0\StackFibonacci.runtimeconfig.dev.json
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\StackFibonacci\bin\Debug\netcoreapp2.0\StackFibonacci.dll
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\StackFibonacci\bin\Debug\netcoreapp2.0\StackFibonacci.pdb
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\StackFibonacci\obj\Debug\netcoreapp2.0\StackFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\StackFibonacci\obj\Debug\netcoreapp2.0\StackFibonacci.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\StackFibonacci\obj\Debug\netcoreapp2.0\StackFibonacci.AssemblyInfo.cs
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\StackFibonacci\obj\Debug\netcoreapp2.0\StackFibonacci.dll
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\StackFibonacci\obj\Debug\netcoreapp2.0\StackFibonacci.pdb

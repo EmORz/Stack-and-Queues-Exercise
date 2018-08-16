@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\Rversed-Number\bin\Debug\netcoreapp2.0\Rversed-Number.deps.json
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\Rversed-Number\bin\Debug\netcoreapp2.0\Rversed-Number.runtimeconfig.json
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\Rversed-Number\bin\Debug\netcoreapp2.0\Rversed-Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\Rversed-Number\bin\Debug\netcoreapp2.0\Rversed-Number.dll
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\Rversed-Number\bin\Debug\netcoreapp2.0\Rversed-Number.pdb
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\Rversed-Number\obj\Debug\netcoreapp2.0\Rversed-Number.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\Rversed-Number\obj\Debug\netcoreapp2.0\Rversed-Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\Rversed-Number\obj\Debug\netcoreapp2.0\Rversed-Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\Rversed-Number\obj\Debug\netcoreapp2.0\Rversed-Number.AssemblyInfo.cs
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\Rversed-Number\obj\Debug\netcoreapp2.0\Rversed-Number.dll
+C:\Users\User\source\repos\Stack-And-Queue-Exercises\Rversed-Number\obj\Debug\netcoreapp2.0\Rversed-Number.pdb
